@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chicken", "chicken\chicken.csproj", "{ACBA2A20-DECC-408F-9288-DA85BB889B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBA2A20-DECC-408F-9288-DA85BB889B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBA2A20-DECC-408F-9288-DA85BB889B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBA2A20-DECC-408F-9288-DA85BB889B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBA2A20-DECC-408F-9288-DA85BB889B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B6ACE3-2221-4982-A78B-38149DCD4662}
+	EndGlobalSection
+EndGlobal
