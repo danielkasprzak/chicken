@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\chicken\chicken\bin\Debug\chicken.exe.config
+C:\Users\Daniel\Desktop\chicken\chicken\bin\Debug\chicken.exe
+C:\Users\Daniel\Desktop\chicken\chicken\bin\Debug\chicken.pdb
+C:\Users\Daniel\Desktop\chicken\chicken\obj\Debug\chicken.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\chicken\chicken\obj\Debug\chicken.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\chicken\chicken\obj\Debug\chicken.exe
+C:\Users\Daniel\Desktop\chicken\chicken\obj\Debug\chicken.pdb
