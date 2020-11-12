@@ -18,4 +18,4 @@ If it's ESX scramlber it changes **all** ESX functions into your own value.
 
 ### Credits
 
-- All credits to goldblack [https://github.com/goldblackk]
+- All credits to [Nyxon](https://github.com/Nyxonn)
