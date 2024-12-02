@@ -11,11 +11,3 @@ If it's ESX scramlber it changes **all** ESX functions into your own value.
 ### How to use it?
 
 - Follow the instructions when you open up chicken.
-
-### Showcase
-
-- https://www.youtube.com/watch?v=R13i2HVhEpI&t=1s
-
-### Credits
-
-- All credits to [Nyxon](https://github.com/Nyxonn)
